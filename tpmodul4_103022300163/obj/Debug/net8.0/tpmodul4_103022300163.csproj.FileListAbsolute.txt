@@ -1,0 +1,15 @@
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.AssemblyInfoInputs.cache
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.AssemblyInfo.cs
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.csproj.CoreCompileInputs.cache
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.sourcelink.json
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\bin\Debug\net8.0\tpmodul4_103022300163.exe
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\bin\Debug\net8.0\tpmodul4_103022300163.deps.json
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\bin\Debug\net8.0\tpmodul4_103022300163.runtimeconfig.json
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\bin\Debug\net8.0\tpmodul4_103022300163.dll
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\bin\Debug\net8.0\tpmodul4_103022300163.pdb
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.dll
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\refint\tpmodul4_103022300163.dll
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.pdb
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\tpmodul4_103022300163.genruntimeconfig.cache
+C:\Users\Hyourei\source\repos\tpmodul4_103022300163\tpmodul4_103022300163\obj\Debug\net8.0\ref\tpmodul4_103022300163.dll

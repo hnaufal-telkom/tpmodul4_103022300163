@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\tpmodul4_103022300163"
+    "\\tpmodul4_103022300163",
+    "\\tpmodul4_103022300163\\bin\\Debug",
+    "\\tpmodul4_103022300163\\bin\\Release",
+    "\\tpmodul4_103022300163\\bin\\Release\\net8.0"
   ],
-  "SelectedNode": "\\tpmodul4_103022300163\\Program.cs",
+  "SelectedNode": "\\tpmodul4_103022300163",
   "PreviewInSolutionExplorer": false
 }
