@@ -5,7 +5,14 @@ class Program
 	static void Main(string[] args)
 	{
 		KodePos kodePos = new KodePos();
+		Console.WriteLine("Kode pos Batununggal :");
 		Console.WriteLine(kodePos.getKodePos("Batununggal").ToString());
+
+		DoorMachine pintu = new DoorMachine();
+		Console.WriteLine("# Membuka pintu");
+		pintu.BukaPintu();
+		Console.WriteLine("# Mengunci pintu");
+		pintu.KunciPintu();
 	}
 }
 
@@ -40,5 +47,19 @@ class KodePos
 			default:
 				return 0;
 		}
+	}
+}
+
+class DoorMachine {
+	private bool terkunci = true;
+
+	public void KunciPintu() {
+		if (!terkunci) terkunci = true;
+		Console.WriteLine("Pintu terkunci");
+	}
+
+	public void BukaPintu() {
+		if (terkunci) terkunci = false;
+		Console.WriteLine("Pintu tidak terkunci");
 	}
 }
